@@ -1,0 +1,9 @@
+pandas
+numpy
+prophet
+datetime
+sqlalchemy
+scipy
+psycopg2
+openpyxl
+pyodbc
